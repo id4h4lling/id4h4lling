@@ -1,16 +1,25 @@
-### Hi there 👋
+Hi, I'm Ida! 👋
 
-<!--
-**id4h4lling/id4h4lling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📸 a creative who has added programming to my repertoar and love it!
 
-Here are some ideas to get you started:
+💡 I finished a 24 week Boot Camp at Technigo where we had new projects each week and learned new tools and skills. 💡
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Here are some of the technologies: HTML, CSS, JavaScript, API:s, Git, NPM, React, JSX, React Native, React Redux, Node.js 
+
+📫 How to reach me: info@idahalling.com
+
+
+Visit my  <a
+            href="https://www.linkedin.com/in/ida-halling/"
+            target="_blank"
+            rel="noopener"
+          > Linkedin
+        </a> and say hi!
+
+Here is my  <a
+            href="https://devportfolio-idahalling.netlify.app/"
+            target="_blank"
+            rel="noopener"
+          > Portfolio
+        </a>
+
