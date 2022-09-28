@@ -1,6 +1,6 @@
 Hi, I'm Ida! 👋
 
-📸 a creative who has added programming to my repertoire and love it!
+📸 A creative who has added programming to my repertoire and love it!
 
 🛠️ Here are some of my skills: HTML, CSS, JavaScript, React, Redux, Node.js, API:s, Git, GraphQL, Figma, Adobe Creative Suite
 
