@@ -2,7 +2,7 @@ Hi, I'm Ida! 👋
 
 📸 a creative who has added programming to my repertoire and love it!
 
-🛠️ Here are some of the technologies: HTML, CSS, JavaScript, API:s, Git, NPM, React, JSX, React Native, React Redux, Node.js 
+🛠️ Here are some of my skills: HTML, CSS, JavaScript, React, Redux, Node.js, API:s, Git, GraphQL, Figma, Adobe Creative Suite
 
 📫 How to reach me: info@idahalling.com
 
